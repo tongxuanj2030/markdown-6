@@ -15,7 +15,20 @@
 
 - Display personailzed reports using:
 
-    - `console
+    - `console.log()` to debug progress
+    ```
+    if (carbonScore < 50{
+        console.log("Great job stayig eco-friendly!")
+    })
+    ```
+    
+
+
+
+
+
+
+- [MDN Web Docs]( https://developer.mozilla.org/en-US/)
 
 [google](https://www.google.com/?safe=active&ssui=on)
 
